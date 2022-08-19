@@ -1,0 +1,12 @@
+C:\Users\ermuh\AppData\Local\Temporary Projects\ConsoleDice\bin\Debug\ConsoleDice.exe.config
+C:\Users\ermuh\AppData\Local\Temporary Projects\ConsoleDice\obj\Debug\ConsoleDice.csprojResolveAssemblyReference.cache
+C:\Users\ermuh\AppData\Local\Temporary Projects\ConsoleDice\bin\Debug\ConsoleDice.exe
+C:\Users\ermuh\AppData\Local\Temporary Projects\ConsoleDice\bin\Debug\ConsoleDice.pdb
+C:\Users\ermuh\AppData\Local\Temporary Projects\ConsoleDice\obj\Debug\ConsoleDice.exe
+C:\Users\ermuh\AppData\Local\Temporary Projects\ConsoleDice\obj\Debug\ConsoleDice.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\ConsoleDice\ConsoleDice\bin\Debug\ConsoleDice.exe.config
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\ConsoleDice\ConsoleDice\obj\Debug\ConsoleDice.exe
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\ConsoleDice\ConsoleDice\obj\Debug\ConsoleDice.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\ConsoleDice\ConsoleDice\bin\Debug\ConsoleDice.exe
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\ConsoleDice\ConsoleDice\bin\Debug\ConsoleDice.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\ConsoleDice\ConsoleDice\obj\Debug\ConsoleDice.csprojResolveAssemblyReference.cache

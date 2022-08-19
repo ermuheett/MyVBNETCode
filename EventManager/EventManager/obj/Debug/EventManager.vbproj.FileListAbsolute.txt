@@ -1,0 +1,17 @@
+C:\Users\ermuh\AppData\Local\Temporary Projects\EventManager\bin\Debug\EventManager.exe.config
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\bin\Debug\EventManager.exe.config
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\bin\Debug\EventManager.exe
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\bin\Debug\EventManager.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\bin\Debug\EventManager.xml
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.vbprojResolveAssemblyReference.cache
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.FrmHome.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.Resources.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.SplashEM.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.vbproj.GenerateResource.Cache
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.exe
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.xml
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.FrmEventMaster.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.FrmProgrammeSchedule.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.FrmRPMaster.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\EventManager\EventManager\obj\Debug\EventManager.FrmProgrammeList.resources

@@ -1,0 +1,6 @@
+c:\users\ermuh\documents\visual studio 2015\Projects\ConsoleAppKMEANS\ConsoleAppKMEANS\obj\Debug\ClusteringKMeans.csprojResolveAssemblyReference.cache
+c:\users\ermuh\documents\visual studio 2015\Projects\ConsoleAppKMEANS\ConsoleAppKMEANS\bin\Debug\ConsoleAppKMEANS.exe.config
+c:\users\ermuh\documents\visual studio 2015\Projects\ConsoleAppKMEANS\ConsoleAppKMEANS\bin\Debug\ConsoleAppKMEANS.exe
+c:\users\ermuh\documents\visual studio 2015\Projects\ConsoleAppKMEANS\ConsoleAppKMEANS\bin\Debug\ConsoleAppKMEANS.pdb
+c:\users\ermuh\documents\visual studio 2015\Projects\ConsoleAppKMEANS\ConsoleAppKMEANS\obj\Debug\ConsoleAppKMEANS.exe
+c:\users\ermuh\documents\visual studio 2015\Projects\ConsoleAppKMEANS\ConsoleAppKMEANS\obj\Debug\ConsoleAppKMEANS.pdb
