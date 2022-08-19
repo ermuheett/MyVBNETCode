@@ -1,0 +1,22 @@
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.exe.config
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.vbprojResolveAssemblyReference.cache
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.FrmStatus.resources
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.Resources.resources
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.vbproj.GenerateResource.Cache
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.xml
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.exe
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.pdb
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.xml
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.exe
+C:\Users\ermuh\AppData\Local\Temporary Projects\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.exe.config
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.exe
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.xml
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.exe
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.pdb
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\bin\Debug\WindowsAppExamStatus.xml
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.vbprojResolveAssemblyReference.cache
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.FrmStatus.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.Resources.resources
+C:\Users\ermuh\Documents\Visual Studio 2015\Projects\WindowsAppExamStatus\WindowsAppExamStatus\obj\Debug\WindowsAppExamStatus.vbproj.GenerateResource.Cache
