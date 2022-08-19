@@ -1,0 +1,10 @@
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\bin\Debug\WindowsAppTestImages.exe
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\bin\Debug\WindowsAppTestImages.pdb
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\bin\Debug\WindowsAppTestImages.xml
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\obj\Debug\WindowsAppTestImages.Form1.resources
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\obj\Debug\WindowsAppTestImages.Resources.resources
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\obj\Debug\WindowsAppTestImages.vbproj.GenerateResource.Cache
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\obj\Debug\WindowsAppTestImages.exe
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\obj\Debug\WindowsAppTestImages.xml
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppTestImages\WindowsAppTestImages\obj\Debug\WindowsAppTestImages.pdb

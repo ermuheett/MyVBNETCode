@@ -1,0 +1,10 @@
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\obj\Debug\WindowsAppVideo.Form1.resources
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\obj\Debug\WindowsAppVideo.Resources.resources
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\obj\Debug\WindowsAppVideo.vbproj.GenerateResource.Cache
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\bin\Debug\WindowsAppVideo.exe
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\bin\Debug\WindowsAppVideo.pdb
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\bin\Debug\WindowsAppVideo.xml
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\obj\Debug\WindowsAppVideo.exe
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\obj\Debug\WindowsAppVideo.xml
+C:\Users\muheet\Documents\Visual Studio 2008\Projects\WindowsAppVideo\WindowsAppVideo\obj\Debug\WindowsAppVideo.pdb
